@@ -1,0 +1,2 @@
+"""LibraMind FastAPI application package."""
+
